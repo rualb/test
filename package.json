@@ -1,0 +1,19 @@
+{
+  "name": "test-js",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+ 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rualb/test-js.git"
+  },
+  "keywords": [],
+  "author": "Test",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rualb/test-js/issues"
+  },
+  "homepage": "https://github.com/rualb/test-js",
+ 
+}
